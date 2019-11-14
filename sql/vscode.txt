@@ -1,0 +1,23 @@
+Extensiones de visual studio code.
+
+Babel ES6/ES7 de dzannotti - 
+Docker de ms-azuretools.vscode-docker
+EditorConfig for VS Code editorconfig.editorconfig
+es6-string-html tobermory.es6-string-html
+ESLint dbaeumer.vscode-eslint
+Node.js Modules Intellisense leizongmin.node-module-intellisense
+npm eg2.vscode-npm-script
+npm Intellisense christian-kohler.npm-intellisense
+Prettier - Code formatte resbenp.prettier-vscode
+TSLint (deprecated) eg2.tslint
+Vetur octref.vetur
+vscode-icons vscode-icons-team.vscode-icons
+
+
+
+
+
+
+
+
+
