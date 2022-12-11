@@ -20,7 +20,7 @@
   "youtube": "https://www.youtube.com/watch?v=sA3t4d1v7OI",
   "dependencies": {
     "@babel/polyfill": "^7.6.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "morgan": "^1.9.1",
     "pg": "^7.12.1",
     "pg-hstore": "^2.3.3",
